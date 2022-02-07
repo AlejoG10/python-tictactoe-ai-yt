@@ -5,9 +5,13 @@
 - press '1' to change ai level to 1 (impossible)
 - press 'r' to restart the game
 
-# Hey Guys! For more Games & Tutorials Follow Me on:
-## ▶️ Youtube:
-https://www.youtube.com/channel/UCLqXQLK6zKZg0trhanjAkkQ
+# Game Snapshots
 
-## 🔥 Instagram:
-https://www.instagram.com/coding_sp0t/?hl=es-la
+## Snapshot 1 - Start
+![snapshot1](snapshots/snapshot1.png)
+
+## Snapshot 2 - Circle Win
+![snapshot1](snapshots/snapshot2.png)
+
+## Snapshot 3 - Cross Win
+![snapshot1](snapshots/snapshot3.png)
